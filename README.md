@@ -1,4 +1,4 @@
-# WebServer + RestServer realizado con node js y express. Tambien se usaron las siguientes dependencias:  
+RestServer realizado con node js y express. Tambien se usaron las siguientes dependencias:  
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.34.0",
     "cors": "^2.8.5",
